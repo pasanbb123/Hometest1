@@ -11,8 +11,7 @@
     object-fit: fill;
 }
 
-#android{
-    width: 20vw;
-    height: 20vw;
-    margin: 30%;
+.table1{
+    width: 30vw;
+    height: 20vh;
 }
