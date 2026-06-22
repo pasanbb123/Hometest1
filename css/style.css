@@ -1,0 +1,18 @@
+.t1{
+    font-style: oblique;
+    background-color: rgb(105, 133, 142);
+    border-radius: 50px;
+    
+}
+
+#img1{
+    width: 100vw;
+    height: 50vh;
+    object-fit: fill;
+}
+
+#android{
+    width: 20vw;
+    height: 20vw;
+    margin: 30%;
+}
